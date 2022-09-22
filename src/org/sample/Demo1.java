@@ -9,6 +9,7 @@ public class Demo1 {
 		int c= a + b;
 		System.out.println(c);
 		System.out.println("Welcome");
+		System.out.println("The boss");
 	}
 	
 }
