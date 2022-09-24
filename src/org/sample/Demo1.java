@@ -17,9 +17,8 @@ public class Demo1 {
 		System.out.println(c);
 		System.out.println("Welcome");
 
-		System.out.println("greens");
+		System.out.println("greens1");
 		System.out.println("WWWWW1");
-
-	}
+}
 
 }
