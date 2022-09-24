@@ -18,8 +18,7 @@ public class Demo1 {
 		System.out.println("Welcome");
 
 		System.out.println("greens1");
-		System.out.println("WWWWW");
-
-	}
+		System.out.println("WWWWW1");
+}
 
 }
